@@ -1,6 +1,6 @@
 # cotton_price_prediction
 
-This is the source code for cotton price prediciton application
+This is the source code for cotton price prediciton application.
 
 <hr>
 
